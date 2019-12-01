@@ -404,3 +404,11 @@ header > nav a {
 .bottom-actus-item-right{
     width: 300px;
 }
+
+#bottom-actus-more{
+    padding: 10px;
+    border: 1px solid orange;
+    text-transform: uppercase;
+    text-decoration: none;
+    margin: 20px 0;
+}
